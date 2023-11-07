@@ -4,6 +4,10 @@ import requests
 import os
 import json
 
+"""
+Estou utilizando um arquivo .ENV para armazenar as credenciais de acesso à API da Agenda Edu.
+"""
+
 CLIENT_ID = os.getenv('CLIENT_ID')
 CLIENT_SECRET = os.getenv('CLIENT_SECRET')
 SCHOOL_TOKEN = os.getenv('SCHOOL_TOKEN')
