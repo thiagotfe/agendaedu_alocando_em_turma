@@ -1,0 +1,25 @@
+{
+	"input": [
+		{
+			"classroom_id": 1,
+			"alunos": [
+				"Teste",
+				"Teste 2"
+			]
+		},
+		{
+			"classroom_id": 2,
+			"alunos": [
+				"Teste",
+				"Teste 2"
+			]
+		},
+		{
+			"classroom_id": 3,
+			"alunos": [
+				"Teste",
+				"Teste 2"
+			]
+		}
+	]
+}
