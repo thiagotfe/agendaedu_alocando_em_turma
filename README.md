@@ -11,3 +11,6 @@ Basta submeter um arquivo `.json` contendo o id da turma e o nome dos alunos.
 A rotina "pega" os dados dos alunos da Agenda Edu e os compara com os dados do arquivo de entrada com o objetivo de retornar o `legacy_id` de cada aluno.
 
 Em seguida, a rotina realiza a inclusão dos alunos por turma.
+
+## Importante
+Para que o código funcione será necessário ter credenciais de acesso à API da Agenda Edu.
